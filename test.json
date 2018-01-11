@@ -1,0 +1,1202 @@
+[
+    {
+      "Timestamp": "2017-09-14 00:00:00",
+      "Open": 3861.89,
+      "High": 3921.74,
+      "Low": 3210,
+      "Close": 3227.79,
+      "Volume (BTC)": 41319.4,
+      "Volume (Currency)": 146101729.73,
+      "Weighted Price": 3535.91
+    },
+    {
+      "Timestamp": "2017-09-15 00:00:00",
+      "Open": 3227.79,
+      "High": 3820,
+      "Low": 2972.01,
+      "Close": 3700.01,
+      "Volume (BTC)": 60278.95,
+      "Volume (Currency)": 203168385.98,
+      "Weighted Price": 3370.47
+    },
+    {
+      "Timestamp": "2017-09-16 00:00:00",
+      "Open": 3699.89,
+      "High": 3872.9,
+      "Low": 3500,
+      "Close": 3678.93,
+      "Volume (BTC)": 23158.23,
+      "Volume (Currency)": 84905914.76,
+      "Weighted Price": 3666.34
+    },
+    {
+      "Timestamp": "2017-09-17 00:00:00",
+      "Open": 3669.07,
+      "High": 3772.52,
+      "Low": 3463,
+      "Close": 3662.99,
+      "Volume (BTC)": 11770.22,
+      "Volume (Currency)": 42657776.56,
+      "Weighted Price": 3624.21
+    },
+    {
+      "Timestamp": "2017-09-18 00:00:00",
+      "Open": 3662.95,
+      "High": 4122.7,
+      "Low": 3659.42,
+      "Close": 4101.6,
+      "Volume (BTC)": 17207.6,
+      "Volume (Currency)": 67988469.46,
+      "Weighted Price": 3951.07
+    },
+    {
+      "Timestamp": "2017-09-19 00:00:00",
+      "Open": 4102,
+      "High": 4119.7,
+      "Low": 3848.35,
+      "Close": 3888.8,
+      "Volume (BTC)": 15278.93,
+      "Volume (Currency)": 60404491.57,
+      "Weighted Price": 3953.45
+    },
+    {
+      "Timestamp": "2017-09-20 00:00:00",
+      "Open": 3888.8,
+      "High": 4050,
+      "Low": 3820.56,
+      "Close": 3874.46,
+      "Volume (BTC)": 11660.27,
+      "Volume (Currency)": 45847238.86,
+      "Weighted Price": 3931.92
+    },
+    {
+      "Timestamp": "2017-09-21 00:00:00",
+      "Open": 3864,
+      "High": 3914,
+      "Low": 3573,
+      "Close": 3617.05,
+      "Volume (BTC)": 17904.3,
+      "Volume (Currency)": 67012342.18,
+      "Weighted Price": 3742.81
+    },
+    {
+      "Timestamp": "2017-09-22 00:00:00",
+      "Open": 3607.83,
+      "High": 3761.84,
+      "Low": 3514,
+      "Close": 3612.18,
+      "Volume (BTC)": 15007.74,
+      "Volume (Currency)": 54271184.82,
+      "Weighted Price": 3616.21
+    },
+    {
+      "Timestamp": "2017-09-23 00:00:00",
+      "Open": 3611.91,
+      "High": 3810.25,
+      "Low": 3552,
+      "Close": 3779.17,
+      "Volume (BTC)": 10123.23,
+      "Volume (Currency)": 37609099.77,
+      "Weighted Price": 3715.13
+    },
+    {
+      "Timestamp": "2017-09-24 00:00:00",
+      "Open": 3781.13,
+      "High": 3783.25,
+      "Low": 3615,
+      "Close": 3664.22,
+      "Volume (BTC)": 6508.72,
+      "Volume (Currency)": 24009707.82,
+      "Weighted Price": 3688.85
+    },
+    {
+      "Timestamp": "2017-09-25 00:00:00",
+      "Open": 3667.01,
+      "High": 3968.59,
+      "Low": 3658.39,
+      "Close": 3918,
+      "Volume (BTC)": 14979.78,
+      "Volume (Currency)": 57632408.09,
+      "Weighted Price": 3847.35
+    },
+    {
+      "Timestamp": "2017-09-26 00:00:00",
+      "Open": 3920.66,
+      "High": 3970,
+      "Low": 3850.61,
+      "Close": 3888.03,
+      "Volume (BTC)": 10014.62,
+      "Volume (Currency)": 39220959.7,
+      "Weighted Price": 3916.37
+    },
+    {
+      "Timestamp": "2017-09-27 00:00:00",
+      "Open": 3883.95,
+      "High": 4226.73,
+      "Low": 3870,
+      "Close": 4199.29,
+      "Volume (BTC)": 15075.84,
+      "Volume (Currency)": 61255648.53,
+      "Weighted Price": 4063.17
+    },
+    {
+      "Timestamp": "2017-09-28 00:00:00",
+      "Open": 4202.34,
+      "High": 4270.01,
+      "Low": 4123.5,
+      "Close": 4184.84,
+      "Volume (BTC)": 9625.93,
+      "Volume (Currency)": 40309035.77,
+      "Weighted Price": 4187.55
+    },
+    {
+      "Timestamp": "2017-09-29 00:00:00",
+      "Open": 4183.47,
+      "High": 4227.62,
+      "Low": 4022.02,
+      "Close": 4164.82,
+      "Volume (BTC)": 12191.93,
+      "Volume (Currency)": 50336312.65,
+      "Weighted Price": 4128.66
+    },
+    {
+      "Timestamp": "2017-09-30 00:00:00",
+      "Open": 4162.04,
+      "High": 4349,
+      "Low": 4154.28,
+      "Close": 4326.09,
+      "Volume (BTC)": 7496.78,
+      "Volume (Currency)": 32073448.82,
+      "Weighted Price": 4278.3
+    },
+    {
+      "Timestamp": "2017-10-01 00:00:00",
+      "Open": 4326.09,
+      "High": 4377.22,
+      "Low": 4216,
+      "Close": 4377.22,
+      "Volume (BTC)": 7211.34,
+      "Volume (Currency)": 30871704.79,
+      "Weighted Price": 4281
+    },
+    {
+      "Timestamp": "2017-10-02 00:00:00",
+      "Open": 4369.33,
+      "High": 4453,
+      "Low": 4352,
+      "Close": 4391.48,
+      "Volume (BTC)": 8259.82,
+      "Volume (Currency)": 36293751.01,
+      "Weighted Price": 4394.01
+    },
+    {
+      "Timestamp": "2017-10-03 00:00:00",
+      "Open": 4391.41,
+      "High": 4425,
+      "Low": 4218,
+      "Close": 4315.83,
+      "Volume (BTC)": 12468.06,
+      "Volume (Currency)": 53551605.48,
+      "Weighted Price": 4295.1
+    },
+    {
+      "Timestamp": "2017-10-04 00:00:00",
+      "Open": 4315.73,
+      "High": 4343,
+      "Low": 4170.07,
+      "Close": 4219.53,
+      "Volume (BTC)": 8518.99,
+      "Volume (Currency)": 36068254.94,
+      "Weighted Price": 4233.86
+    },
+    {
+      "Timestamp": "2017-10-05 00:00:00",
+      "Open": 4219.74,
+      "High": 4358.97,
+      "Low": 4137.96,
+      "Close": 4301.09,
+      "Volume (BTC)": 8419.96,
+      "Volume (Currency)": 35912272.84,
+      "Weighted Price": 4265.13
+    },
+    {
+      "Timestamp": "2017-10-06 00:00:00",
+      "Open": 4301.09,
+      "High": 4425,
+      "Low": 4278.4,
+      "Close": 4362.95,
+      "Volume (BTC)": 8377.3,
+      "Volume (Currency)": 36552658.15,
+      "Weighted Price": 4363.3
+    },
+    {
+      "Timestamp": "2017-10-07 00:00:00",
+      "Open": 4356.09,
+      "High": 4463,
+      "Low": 4312.82,
+      "Close": 4423.3,
+      "Volume (BTC)": 4646.41,
+      "Volume (Currency)": 20320065.24,
+      "Weighted Price": 4373.29
+    },
+    {
+      "Timestamp": "2017-10-08 00:00:00",
+      "Open": 4422.72,
+      "High": 4612,
+      "Low": 4404.5,
+      "Close": 4597.98,
+      "Volume (BTC)": 10083.87,
+      "Volume (Currency)": 45490443.57,
+      "Weighted Price": 4511.21
+    },
+    {
+      "Timestamp": "2017-10-09 00:00:00",
+      "Open": 4597.97,
+      "High": 4865,
+      "Low": 4541,
+      "Close": 4764.7,
+      "Volume (BTC)": 12923.67,
+      "Volume (Currency)": 60473207.29,
+      "Weighted Price": 4679.26
+    },
+    {
+      "Timestamp": "2017-10-10 00:00:00",
+      "Open": 4761.67,
+      "High": 4909.97,
+      "Low": 4700,
+      "Close": 4749.29,
+      "Volume (BTC)": 11666.02,
+      "Volume (Currency)": 56088789.35,
+      "Weighted Price": 4807.87
+    },
+    {
+      "Timestamp": "2017-10-11 00:00:00",
+      "Open": 4747.9,
+      "High": 4869.78,
+      "Low": 4700,
+      "Close": 4822.01,
+      "Volume (BTC)": 9866.9,
+      "Volume (Currency)": 47256315.42,
+      "Weighted Price": 4789.38
+    },
+    {
+      "Timestamp": "2017-10-12 00:00:00",
+      "Open": 4822.01,
+      "High": 5445,
+      "Low": 4793.66,
+      "Close": 5445,
+      "Volume (BTC)": 19916.23,
+      "Volume (Currency)": 102559923.23,
+      "Weighted Price": 5149.57
+    },
+    {
+      "Timestamp": "2017-10-13 00:00:00",
+      "Open": 5444,
+      "High": 5846.43,
+      "Low": 5380,
+      "Close": 5653.6,
+      "Volume (BTC)": 27827.38,
+      "Volume (Currency)": 155848051.87,
+      "Weighted Price": 5600.53
+    },
+    {
+      "Timestamp": "2017-10-14 00:00:00",
+      "Open": 5653.58,
+      "High": 5817.34,
+      "Low": 5558.26,
+      "Close": 5801.29,
+      "Volume (BTC)": 8410.94,
+      "Volume (Currency)": 47779356.45,
+      "Weighted Price": 5680.62
+    },
+    {
+      "Timestamp": "2017-10-15 00:00:00",
+      "Open": 5795.01,
+      "High": 5830,
+      "Low": 5415,
+      "Close": 5679.7,
+      "Volume (BTC)": 11542.95,
+      "Volume (Currency)": 64464008.42,
+      "Weighted Price": 5584.71
+    },
+    {
+      "Timestamp": "2017-10-16 00:00:00",
+      "Open": 5683.92,
+      "High": 5807.11,
+      "Low": 5548,
+      "Close": 5745.72,
+      "Volume (BTC)": 9066.8,
+      "Volume (Currency)": 51508749.11,
+      "Weighted Price": 5681.03
+    },
+    {
+      "Timestamp": "2017-10-17 00:00:00",
+      "Open": 5752.2,
+      "High": 5776.31,
+      "Low": 5506.78,
+      "Close": 5597.31,
+      "Volume (BTC)": 9105.28,
+      "Volume (Currency)": 51035573.57,
+      "Weighted Price": 5605.05
+    },
+    {
+      "Timestamp": "2017-10-18 00:00:00",
+      "Open": 5591.97,
+      "High": 5617.75,
+      "Low": 5101.36,
+      "Close": 5582.05,
+      "Volume (BTC)": 18961.68,
+      "Volume (Currency)": 101657249.58,
+      "Weighted Price": 5361.2
+    },
+    {
+      "Timestamp": "2017-10-19 00:00:00",
+      "Open": 5572.64,
+      "High": 5735.14,
+      "Low": 5512.06,
+      "Close": 5698.69,
+      "Volume (BTC)": 9919.84,
+      "Volume (Currency)": 56087316.56,
+      "Weighted Price": 5654.06
+    },
+    {
+      "Timestamp": "2017-10-20 00:00:00",
+      "Open": 5700,
+      "High": 6074,
+      "Low": 5589.8,
+      "Close": 5977.29,
+      "Volume (BTC)": 15109.06,
+      "Volume (Currency)": 89014299.88,
+      "Weighted Price": 5891.45
+    },
+    {
+      "Timestamp": "2017-10-21 00:00:00",
+      "Open": 5977.26,
+      "High": 6180,
+      "Low": 5871,
+      "Close": 6013.46,
+      "Volume (BTC)": 15357.42,
+      "Volume (Currency)": 92912504.83,
+      "Weighted Price": 6050.01
+    },
+    {
+      "Timestamp": "2017-10-22 00:00:00",
+      "Open": 6010.85,
+      "High": 6071.07,
+      "Low": 5700,
+      "Close": 5969,
+      "Volume (BTC)": 12232.52,
+      "Volume (Currency)": 71898806.16,
+      "Weighted Price": 5877.68
+    },
+    {
+      "Timestamp": "2017-10-23 00:00:00",
+      "Open": 5967.38,
+      "High": 6045.34,
+      "Low": 5617.75,
+      "Close": 5871.17,
+      "Volume (BTC)": 15331.64,
+      "Volume (Currency)": 89530043.16,
+      "Weighted Price": 5839.56
+    },
+    {
+      "Timestamp": "2017-10-24 00:00:00",
+      "Open": 5869.82,
+      "High": 5870,
+      "Low": 5453.01,
+      "Close": 5523.4,
+      "Volume (BTC)": 17286.72,
+      "Volume (Currency)": 97560230.19,
+      "Weighted Price": 5643.65
+    },
+    {
+      "Timestamp": "2017-10-25 00:00:00",
+      "Open": 5518.49,
+      "High": 5748,
+      "Low": 5366,
+      "Close": 5735.88,
+      "Volume (BTC)": 12349.11,
+      "Volume (Currency)": 68370411.13,
+      "Weighted Price": 5536.47
+    },
+    {
+      "Timestamp": "2017-10-26 00:00:00",
+      "Open": 5741.35,
+      "High": 5988,
+      "Low": 5683,
+      "Close": 5890,
+      "Volume (BTC)": 11788.3,
+      "Volume (Currency)": 69079451.81,
+      "Weighted Price": 5860
+    },
+    {
+      "Timestamp": "2017-10-27 00:00:00",
+      "Open": 5889.99,
+      "High": 5994.06,
+      "Low": 5674.06,
+      "Close": 5771.89,
+      "Volume (BTC)": 11911.04,
+      "Volume (Currency)": 69053794.44,
+      "Weighted Price": 5797.46
+    },
+    {
+      "Timestamp": "2017-10-28 00:00:00",
+      "Open": 5773.03,
+      "High": 5875.66,
+      "Low": 5646.18,
+      "Close": 5730.69,
+      "Volume (BTC)": 5926.3,
+      "Volume (Currency)": 33993472.69,
+      "Weighted Price": 5736.04
+    },
+    {
+      "Timestamp": "2017-10-29 00:00:00",
+      "Open": 5731.7,
+      "High": 6316.85,
+      "Low": 5683,
+      "Close": 6137.37,
+      "Volume (BTC)": 16086.63,
+      "Volume (Currency)": 96361934.29,
+      "Weighted Price": 5990.19
+    },
+    {
+      "Timestamp": "2017-10-30 00:00:00",
+      "Open": 6133.01,
+      "High": 6229.77,
+      "Low": 6024.03,
+      "Close": 6119.99,
+      "Volume (BTC)": 9574.64,
+      "Volume (Currency)": 58637080.14,
+      "Weighted Price": 6124.2
+    },
+    {
+      "Timestamp": "2017-10-31 00:00:00",
+      "Open": 6120,
+      "High": 6449.78,
+      "Low": 6072.81,
+      "Close": 6434.21,
+      "Volume (BTC)": 13423.31,
+      "Volume (Currency)": 84354477.98,
+      "Weighted Price": 6284.18
+    },
+    {
+      "Timestamp": "2017-11-01 00:00:00",
+      "Open": 6434.24,
+      "High": 6756.36,
+      "Low": 6340.01,
+      "Close": 6741.59,
+      "Volume (BTC)": 12967.22,
+      "Volume (Currency)": 84891427.3,
+      "Weighted Price": 6546.62
+    },
+    {
+      "Timestamp": "2017-11-02 00:00:00",
+      "Open": 6745.04,
+      "High": 7354.1,
+      "Low": 6700,
+      "Close": 7030,
+      "Volume (BTC)": 26514.65,
+      "Volume (Currency)": 184979262.34,
+      "Weighted Price": 6976.49
+    },
+    {
+      "Timestamp": "2017-11-03 00:00:00",
+      "Open": 7030,
+      "High": 7500,
+      "Low": 6925.22,
+      "Close": 7146.82,
+      "Volume (BTC)": 15999.78,
+      "Volume (Currency)": 116037544.15,
+      "Weighted Price": 7252.44
+    },
+    {
+      "Timestamp": "2017-11-04 00:00:00",
+      "Open": 7145.24,
+      "High": 7569.9,
+      "Low": 6994,
+      "Close": 7388.83,
+      "Volume (BTC)": 9200.11,
+      "Volume (Currency)": 66730277.42,
+      "Weighted Price": 7253.2
+    },
+    {
+      "Timestamp": "2017-11-05 00:00:00",
+      "Open": 7388.79,
+      "High": 7590,
+      "Low": 7275.16,
+      "Close": 7372.72,
+      "Volume (BTC)": 9218.33,
+      "Volume (Currency)": 68631151.85,
+      "Weighted Price": 7445.08
+    },
+    {
+      "Timestamp": "2017-11-06 00:00:00",
+      "Open": 7373.3,
+      "High": 7421.39,
+      "Low": 6922.07,
+      "Close": 6967.68,
+      "Volume (BTC)": 19323.13,
+      "Volume (Currency)": 138542391.75,
+      "Weighted Price": 7169.77
+    },
+    {
+      "Timestamp": "2017-11-07 00:00:00",
+      "Open": 6967.64,
+      "High": 7244.69,
+      "Low": 6945,
+      "Close": 7130.28,
+      "Volume (BTC)": 11634.27,
+      "Volume (Currency)": 82632999.59,
+      "Weighted Price": 7102.55
+    },
+    {
+      "Timestamp": "2017-11-08 00:00:00",
+      "Open": 7131.38,
+      "High": 7888,
+      "Low": 7080.01,
+      "Close": 7450.32,
+      "Volume (BTC)": 24679.72,
+      "Volume (Currency)": 183501327.08,
+      "Weighted Price": 7435.31
+    },
+    {
+      "Timestamp": "2017-11-09 00:00:00",
+      "Open": 7465.06,
+      "High": 7490,
+      "Low": 7061.2,
+      "Close": 7148,
+      "Volume (BTC)": 14799.27,
+      "Volume (Currency)": 106985408.52,
+      "Weighted Price": 7229.1
+    },
+    {
+      "Timestamp": "2017-11-10 00:00:00",
+      "Open": 7150.61,
+      "High": 7343.18,
+      "Low": 6429.44,
+      "Close": 6588.18,
+      "Volume (BTC)": 26614.28,
+      "Volume (Currency)": 181284361.1,
+      "Weighted Price": 6811.55
+    },
+    {
+      "Timestamp": "2017-11-11 00:00:00",
+      "Open": 6588.18,
+      "High": 6820,
+      "Low": 6218,
+      "Close": 6355.13,
+      "Volume (BTC)": 14942.7,
+      "Volume (Currency)": 96800268.09,
+      "Weighted Price": 6478.1
+    },
+    {
+      "Timestamp": "2017-11-12 00:00:00",
+      "Open": 6355.13,
+      "High": 6488.88,
+      "Low": 5555.55,
+      "Close": 5870.37,
+      "Volume (BTC)": 37315.16,
+      "Volume (Currency)": 225565297.53,
+      "Weighted Price": 6044.87
+    },
+    {
+      "Timestamp": "2017-11-13 00:00:00",
+      "Open": 5870.03,
+      "High": 6775.75,
+      "Low": 5846,
+      "Close": 6525.17,
+      "Volume (BTC)": 27202.28,
+      "Volume (Currency)": 173971383.56,
+      "Weighted Price": 6395.47
+    },
+    {
+      "Timestamp": "2017-11-14 00:00:00",
+      "Open": 6524.69,
+      "High": 6750,
+      "Low": 6466.88,
+      "Close": 6609,
+      "Volume (BTC)": 12072.05,
+      "Volume (Currency)": 79508390.54,
+      "Weighted Price": 6586.15
+    },
+    {
+      "Timestamp": "2017-11-15 00:00:00",
+      "Open": 6609,
+      "High": 7350,
+      "Low": 6609,
+      "Close": 7294,
+      "Volume (BTC)": 16869.9,
+      "Volume (Currency)": 119171192.38,
+      "Weighted Price": 7064.13
+    },
+    {
+      "Timestamp": "2017-11-16 00:00:00",
+      "Open": 7294,
+      "High": 7976.79,
+      "Low": 7120.85,
+      "Close": 7846.96,
+      "Volume (BTC)": 19272.37,
+      "Volume (Currency)": 145738327.49,
+      "Weighted Price": 7562.03
+    },
+    {
+      "Timestamp": "2017-11-17 00:00:00",
+      "Open": 7846.96,
+      "High": 7997,
+      "Low": 7528.5,
+      "Close": 7674.99,
+      "Volume (BTC)": 17714.37,
+      "Volume (Currency)": 138124189.43,
+      "Weighted Price": 7797.3
+    },
+    {
+      "Timestamp": "2017-11-18 00:00:00",
+      "Open": 7675,
+      "High": 7858,
+      "Low": 7431.54,
+      "Close": 7771.03,
+      "Volume (BTC)": 7326.81,
+      "Volume (Currency)": 56264967.21,
+      "Weighted Price": 7679.33
+    },
+    {
+      "Timestamp": "2017-11-19 00:00:00",
+      "Open": 7775.55,
+      "High": 8087.35,
+      "Low": 7675,
+      "Close": 8016.58,
+      "Volume (BTC)": 8307.78,
+      "Volume (Currency)": 65332064.65,
+      "Weighted Price": 7863.96
+    },
+    {
+      "Timestamp": "2017-11-20 00:00:00",
+      "Open": 8016.58,
+      "High": 8269.99,
+      "Low": 7900,
+      "Close": 8226.17,
+      "Volume (BTC)": 8179.46,
+      "Volume (Currency)": 66366007.81,
+      "Weighted Price": 8113.74
+    },
+    {
+      "Timestamp": "2017-11-21 00:00:00",
+      "Open": 8226.14,
+      "High": 8354.46,
+      "Low": 7770,
+      "Close": 8095.23,
+      "Volume (BTC)": 13686.51,
+      "Volume (Currency)": 110811263.49,
+      "Weighted Price": 8096.38
+    },
+    {
+      "Timestamp": "2017-11-22 00:00:00",
+      "Open": 8095.19,
+      "High": 8310.89,
+      "Low": 8045.76,
+      "Close": 8214.69,
+      "Volume (BTC)": 8078.58,
+      "Volume (Currency)": 66215711.71,
+      "Weighted Price": 8196.45
+    },
+    {
+      "Timestamp": "2017-11-23 00:00:00",
+      "Open": 8214.69,
+      "High": 8279.76,
+      "Low": 7980,
+      "Close": 7989,
+      "Volume (BTC)": 7811.79,
+      "Volume (Currency)": 63644740.39,
+      "Weighted Price": 8147.26
+    },
+    {
+      "Timestamp": "2017-11-24 00:00:00",
+      "Open": 7988.96,
+      "High": 8340,
+      "Low": 7876,
+      "Close": 8199.19,
+      "Volume (BTC)": 9289.99,
+      "Volume (Currency)": 75751868.75,
+      "Weighted Price": 8154.14
+    },
+    {
+      "Timestamp": "2017-11-25 00:00:00",
+      "Open": 8199.83,
+      "High": 8737,
+      "Low": 8114.78,
+      "Close": 8717.99,
+      "Volume (BTC)": 11611.67,
+      "Volume (Currency)": 97628924.79,
+      "Weighted Price": 8407.83
+    },
+    {
+      "Timestamp": "2017-11-26 00:00:00",
+      "Open": 8718,
+      "High": 9366.6,
+      "Low": 8538.2,
+      "Close": 9271.06,
+      "Volume (BTC)": 12021.22,
+      "Volume (Currency)": 108525815.45,
+      "Weighted Price": 9027.86
+    },
+    {
+      "Timestamp": "2017-11-27 00:00:00",
+      "Open": 9278.99,
+      "High": 9721.7,
+      "Low": 9267,
+      "Close": 9708.07,
+      "Volume (BTC)": 13272.45,
+      "Volume (Currency)": 126458117.67,
+      "Weighted Price": 9527.86
+    },
+    {
+      "Timestamp": "2017-11-28 00:00:00",
+      "Open": 9708.06,
+      "High": 9968,
+      "Low": 9582.25,
+      "Close": 9868.82,
+      "Volume (BTC)": 11214.93,
+      "Volume (Currency)": 110496755.85,
+      "Weighted Price": 9852.65
+    },
+    {
+      "Timestamp": "2017-11-29 00:00:00",
+      "Open": 9877.63,
+      "High": 11395,
+      "Low": 9250,
+      "Close": 9824.68,
+      "Volume (BTC)": 33432.34,
+      "Volume (Currency)": 346949562.2,
+      "Weighted Price": 10377.66
+    },
+    {
+      "Timestamp": "2017-11-30 00:00:00",
+      "Open": 9833.7,
+      "High": 10618.29,
+      "Low": 9000,
+      "Close": 9947.67,
+      "Volume (BTC)": 25433.46,
+      "Volume (Currency)": 247093850.76,
+      "Weighted Price": 9715.31
+    },
+    {
+      "Timestamp": "2017-12-01 00:00:00",
+      "Open": 9927.29,
+      "High": 10949.89,
+      "Low": 9370.11,
+      "Close": 10840.45,
+      "Volume (BTC)": 16708.03,
+      "Volume (Currency)": 171881760.62,
+      "Weighted Price": 10287.37
+    },
+    {
+      "Timestamp": "2017-12-02 00:00:00",
+      "Open": 10840.45,
+      "High": 11200,
+      "Low": 10637.69,
+      "Close": 10872,
+      "Volume (BTC)": 9267.16,
+      "Volume (Currency)": 101270084.38,
+      "Weighted Price": 10927.84
+    },
+    {
+      "Timestamp": "2017-12-03 00:00:00",
+      "Open": 10875.68,
+      "High": 11800.01,
+      "Low": 10513.16,
+      "Close": 11250,
+      "Volume (BTC)": 14238.53,
+      "Volume (Currency)": 160176290.44,
+      "Weighted Price": 11249.5
+    },
+    {
+      "Timestamp": "2017-12-04 00:00:00",
+      "Open": 11250,
+      "High": 11613.07,
+      "Low": 10850,
+      "Close": 11613.07,
+      "Volume (BTC)": 13621.48,
+      "Volume (Currency)": 154122917.9,
+      "Weighted Price": 11314.7
+    },
+    {
+      "Timestamp": "2017-12-05 00:00:00",
+      "Open": 11613.07,
+      "High": 11850,
+      "Low": 11384.25,
+      "Close": 11677,
+      "Volume (BTC)": 11875.03,
+      "Volume (Currency)": 138370076.16,
+      "Weighted Price": 11652.18
+    },
+    {
+      "Timestamp": "2017-12-06 00:00:00",
+      "Open": 11676.99,
+      "High": 13700,
+      "Low": 11659.8,
+      "Close": 13623.5,
+      "Volume (BTC)": 19784.87,
+      "Volume (Currency)": 250560790.3,
+      "Weighted Price": 12664.26
+    },
+    {
+      "Timestamp": "2017-12-07 00:00:00",
+      "Open": 13623,
+      "High": 16615.62,
+      "Low": 13085.9,
+      "Close": 16599.99,
+      "Volume (BTC)": 25787.68,
+      "Volume (Currency)": 382694044.13,
+      "Weighted Price": 14840.19
+    },
+    {
+      "Timestamp": "2017-12-08 00:00:00",
+      "Open": 16599.99,
+      "High": 16666.66,
+      "Low": 13482.42,
+      "Close": 15800,
+      "Volume (BTC)": 25473.4,
+      "Volume (Currency)": 389366035.09,
+      "Weighted Price": 15285.2
+    },
+    {
+      "Timestamp": "2017-12-09 00:00:00",
+      "Open": 15799.87,
+      "High": 15998.5,
+      "Low": 12701.05,
+      "Close": 14607.49,
+      "Volume (BTC)": 16587.47,
+      "Volume (Currency)": 238909072.56,
+      "Weighted Price": 14402.98
+    },
+    {
+      "Timestamp": "2017-12-10 00:00:00",
+      "Open": 14601.01,
+      "High": 15385,
+      "Low": 13011,
+      "Close": 14691,
+      "Volume (BTC)": 18487.98,
+      "Volume (Currency)": 263150668,
+      "Weighted Price": 14233.61
+    },
+    {
+      "Timestamp": "2017-12-11 00:00:00",
+      "Open": 14690.99,
+      "High": 17270,
+      "Low": 14677.19,
+      "Close": 16470,
+      "Volume (BTC)": 16583.72,
+      "Volume (Currency)": 270203844.28,
+      "Weighted Price": 16293.32
+    },
+    {
+      "Timestamp": "2017-12-12 00:00:00",
+      "Open": 16470,
+      "High": 17428.42,
+      "Low": 15967.29,
+      "Close": 16650.01,
+      "Volume (BTC)": 13517.89,
+      "Volume (Currency)": 227842348.7,
+      "Weighted Price": 16854.87
+    },
+    {
+      "Timestamp": "2017-12-13 00:00:00",
+      "Open": 16650.01,
+      "High": 17107.03,
+      "Low": 15497.69,
+      "Close": 16250,
+      "Volume (BTC)": 17136.71,
+      "Volume (Currency)": 281640493.79,
+      "Weighted Price": 16434.93
+    },
+    {
+      "Timestamp": "2017-12-14 00:00:00",
+      "Open": 16245.02,
+      "High": 16830.45,
+      "Low": 15852.69,
+      "Close": 16404.99,
+      "Volume (BTC)": 13409.52,
+      "Volume (Currency)": 219263192.46,
+      "Weighted Price": 16351.3
+    },
+    {
+      "Timestamp": "2017-12-15 00:00:00",
+      "Open": 16404.99,
+      "High": 17934,
+      "Low": 16337.19,
+      "Close": 17471.5,
+      "Volume (BTC)": 18998.39,
+      "Volume (Currency)": 329337014.76,
+      "Weighted Price": 17335
+    },
+    {
+      "Timestamp": "2017-12-16 00:00:00",
+      "Open": 17477.98,
+      "High": 19377,
+      "Low": 17269.99,
+      "Close": 19187.78,
+      "Volume (BTC)": 9761.22,
+      "Volume (Currency)": 179906034.64,
+      "Weighted Price": 18430.69
+    },
+    {
+      "Timestamp": "2017-12-17 00:00:00",
+      "Open": 19187.78,
+      "High": 19666,
+      "Low": 18465,
+      "Close": 18953,
+      "Volume (BTC)": 9749.25,
+      "Volume (Currency)": 186310530.76,
+      "Weighted Price": 19110.24
+    },
+    {
+      "Timestamp": "2017-12-18 00:00:00",
+      "Open": 18953,
+      "High": 19220,
+      "Low": 17835.2,
+      "Close": 18940.57,
+      "Volume (BTC)": 14678.94,
+      "Volume (Currency)": 273533539.4,
+      "Weighted Price": 18634.42
+    },
+    {
+      "Timestamp": "2017-12-19 00:00:00",
+      "Open": 18940.58,
+      "High": 19160.79,
+      "Low": 16831.26,
+      "Close": 17700,
+      "Volume (BTC)": 21528.14,
+      "Volume (Currency)": 387206242.38,
+      "Weighted Price": 17986.05
+    },
+    {
+      "Timestamp": "2017-12-20 00:00:00",
+      "Open": 17700,
+      "High": 17950,
+      "Low": 15343.04,
+      "Close": 16466.98,
+      "Volume (BTC)": 31172.23,
+      "Volume (Currency)": 521350550.61,
+      "Weighted Price": 16724.84
+    },
+    {
+      "Timestamp": "2017-12-21 00:00:00",
+      "Open": 16466.98,
+      "High": 17281.17,
+      "Low": 15005,
+      "Close": 15600.01,
+      "Volume (BTC)": 20377.86,
+      "Volume (Currency)": 326730689.65,
+      "Weighted Price": 16033.61
+    },
+    {
+      "Timestamp": "2017-12-22 00:00:00",
+      "Open": 15600,
+      "High": 15795.61,
+      "Low": 11159.93,
+      "Close": 14009.79,
+      "Volume (BTC)": 57444.89,
+      "Volume (Currency)": 772143020.64,
+      "Weighted Price": 13441.46
+    },
+    {
+      "Timestamp": "2017-12-23 00:00:00",
+      "Open": 13980,
+      "High": 15756.22,
+      "Low": 13496.48,
+      "Close": 14619,
+      "Volume (BTC)": 21786.41,
+      "Volume (Currency)": 322120599.56,
+      "Weighted Price": 14785.39
+    },
+    {
+      "Timestamp": "2017-12-24 00:00:00",
+      "Open": 14619,
+      "High": 14619.1,
+      "Low": 12488,
+      "Close": 14157.87,
+      "Volume (BTC)": 18519.49,
+      "Volume (Currency)": 250476423.64,
+      "Weighted Price": 13525.02
+    },
+    {
+      "Timestamp": "2017-12-25 00:00:00",
+      "Open": 14107.87,
+      "High": 14650,
+      "Low": 13210,
+      "Close": 13911.28,
+      "Volume (BTC)": 11564.54,
+      "Volume (Currency)": 161347357.08,
+      "Weighted Price": 13951.9
+    },
+    {
+      "Timestamp": "2017-12-26 00:00:00",
+      "Open": 13925.5,
+      "High": 16147.87,
+      "Low": 13746.95,
+      "Close": 15764.44,
+      "Volume (BTC)": 15051.16,
+      "Volume (Currency)": 230922569.15,
+      "Weighted Price": 15342.51
+    },
+    {
+      "Timestamp": "2017-12-27 00:00:00",
+      "Open": 15764.45,
+      "High": 16480.52,
+      "Low": 14484,
+      "Close": 15364.93,
+      "Volume (BTC)": 15643.75,
+      "Volume (Currency)": 241860985.13,
+      "Weighted Price": 15460.55
+    },
+    {
+      "Timestamp": "2017-12-28 00:00:00",
+      "Open": 15390.05,
+      "High": 15474.19,
+      "Low": 13500,
+      "Close": 14470.07,
+      "Volume (BTC)": 16557.22,
+      "Volume (Currency)": 234428578.54,
+      "Weighted Price": 14158.69
+    },
+    {
+      "Timestamp": "2017-12-29 00:00:00",
+      "Open": 14436.99,
+      "High": 15111,
+      "Low": 13998,
+      "Close": 14340,
+      "Volume (BTC)": 13505.7,
+      "Volume (Currency)": 195727638.77,
+      "Weighted Price": 14492.22
+    },
+    {
+      "Timestamp": "2017-12-30 00:00:00",
+      "Open": 14351,
+      "High": 14463.28,
+      "Low": 12050,
+      "Close": 12640,
+      "Volume (BTC)": 21749.67,
+      "Volume (Currency)": 285985550.32,
+      "Weighted Price": 13148.96
+    },
+    {
+      "Timestamp": "2017-12-31 00:00:00",
+      "Open": 12640,
+      "High": 14296.06,
+      "Low": 12491.21,
+      "Close": 13880,
+      "Volume (BTC)": 11583.42,
+      "Volume (Currency)": 154552644.47,
+      "Weighted Price": 13342.58
+    },
+    {
+      "Timestamp": "2018-01-01 00:00:00",
+      "Open": 13880,
+      "High": 13941.75,
+      "Low": 12801.38,
+      "Close": 13443.41,
+      "Volume (BTC)": 7688.03,
+      "Volume (Currency)": 102815718.45,
+      "Weighted Price": 13373.48
+    },
+    {
+      "Timestamp": "2018-01-02 00:00:00",
+      "Open": 13394.2,
+      "High": 15257.53,
+      "Low": 12910.58,
+      "Close": 14678.94,
+      "Volume (BTC)": 16299.67,
+      "Volume (Currency)": 229138844.08,
+      "Weighted Price": 14057.88
+    },
+    {
+      "Timestamp": "2018-01-03 00:00:00",
+      "Open": 14670.96,
+      "High": 15500,
+      "Low": 14546.28,
+      "Close": 15155.62,
+      "Volume (BTC)": 12275,
+      "Volume (Currency)": 183639413.74,
+      "Weighted Price": 14960.44
+    },
+    {
+      "Timestamp": "2018-01-04 00:00:00",
+      "Open": 15155.62,
+      "High": 15430.27,
+      "Low": 14192.37,
+      "Close": 15143.67,
+      "Volume (BTC)": 15004.02,
+      "Volume (Currency)": 222160244.49,
+      "Weighted Price": 14806.72
+    },
+    {
+      "Timestamp": "2018-01-05 00:00:00",
+      "Open": 15143.67,
+      "High": 17200,
+      "Low": 14810,
+      "Close": 16928,
+      "Volume (BTC)": 16248.91,
+      "Volume (Currency)": 259695892.85,
+      "Weighted Price": 15982.35
+    },
+    {
+      "Timestamp": "2018-01-06 00:00:00",
+      "Open": 16927.99,
+      "High": 17234.99,
+      "Low": 16220,
+      "Close": 17149.67,
+      "Volume (BTC)": 9501.02,
+      "Volume (Currency)": 158389594.51,
+      "Weighted Price": 16670.8
+    },
+    {
+      "Timestamp": "2018-01-07 00:00:00",
+      "Open": 17142.43,
+      "High": 17149.97,
+      "Low": 15707.16,
+      "Close": 16124.02,
+      "Volume (BTC)": 8632.81,
+      "Volume (Currency)": 141555094.16,
+      "Weighted Price": 16397.33
+    },
+    {
+      "Timestamp": "2018-01-08 00:00:00",
+      "Open": 16173.98,
+      "High": 16300,
+      "Low": 13900,
+      "Close": 14999.99,
+      "Volume (BTC)": 16676.35,
+      "Volume (Currency)": 251877784.14,
+      "Weighted Price": 15103.89
+    },
+    {
+      "Timestamp": "2018-01-09 00:00:00",
+      "Open": 14999.99,
+      "High": 15367.18,
+      "Low": 14123.97,
+      "Close": 14403.51,
+      "Volume (BTC)": 13913.52,
+      "Volume (Currency)": 204579121.58,
+      "Weighted Price": 14703.62
+    },
+    {
+      "Timestamp": "2018-01-10 00:00:00",
+      "Open": 14403.51,
+      "High": 14900,
+      "Low": 13412,
+      "Close": 14890.02,
+      "Volume (BTC)": 18479.01,
+      "Volume (Currency)": 261210687.03,
+      "Weighted Price": 14135.53
+    },
+    {
+      "Timestamp": "2018-01-11 00:00:00",
+      "Open": 14899.99,
+      "High": 14973.07,
+      "Low": 13674.36,
+      "Close": 13785,
+      "Volume (BTC)": 2136.23,
+      "Volume (Currency)": 30792943.75,
+      "Weighted Price": 14414.65
+    }
+  ]
