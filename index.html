@@ -16,6 +16,7 @@
     <script>
 
         var queryURL = "http://localhost:8080/test.json";
+
         $.ajax({
             url: queryURL,
             method: "GET"
@@ -26,57 +27,64 @@
             for (let i = 0; i < results.length; i++) {
                 
                 var timeStamp = results[i].Timestamp;
+                var open = results[i].Open;
+                var high = results[i].High;
+                var low = results[i].Low;
+                var close = results[i].Close;
+                var btcVolume = results[i].VolumeBTC;
+                var currencyVolume = results[i].VolumeCurrency;
+                var weightedPrice = results[i].WeightedPrice;
            
+                console.log(btcVolume);
             }
 
-            console.log(timeStamp);
         })
 
 //  Charting
 
-//     var ctx = document.getElementById('myChart').getContext('2d');
-//     var chart = new Chart(ctx, {
-//     // The type of chart we want to create
-//     type: 'bar',
+    var ctx = document.getElementById('myChart').getContext('2d');
+    var chart = new Chart(ctx, {
+    // The type of chart we want to create
+    type: 'bar',
 
-//     // The data for our dataset
-//     data: {
-//             datasets: [{
-//                 label: "Dataset 1",
-//                 backgroundColor: 'rgba(255, 99, 132, .5)',
-//                 borderColor: 'rgba(255, 99, 132, .8)',
-//                 data: [0, 10, 5, 2, 20, 30, 45],
-//             },
-//             {
-//                 label: 'Dataset 2',
-//                 backgroundColor: 'rgba(76, 162, 255, .5)',
-//                 borderColor: 'rgba(76, 162, 255, .9)',
-//                 data: [24, 36, 12, 10, 10, 42, 12],
+    // The data for our dataset
+    data: {
+            datasets: [{
+                label: "Weighted Price",
+                backgroundColor: 'rgba(255, 99, 132, .5)',
+                borderColor: 'rgba(255, 99, 132, .8)',
+                data: [0, 10, 5, 2, 20, 30, 45],
+            },
+            {
+                label: 'Dataset 2',
+                backgroundColor: 'rgba(76, 162, 255, .5)',
+                borderColor: 'rgba(76, 162, 255, .9)',
+                data: [24, 36, 12, 10, 10, 42, 12],
 
-//                 type: 'line'
-//             }, {
-//                 label: 'Dataset 3',
-//                 backgroundColor: 'rgba(162, 255, 76, .8)',
-//                 borderColor: 'rgba(162, 255, 76, .9)',
-//                 data: [36, 18, 10, 25, 31, 44, 18],
+                type: 'line'
+            }, {
+                label: 'Dataset 3',
+                backgroundColor: 'rgba(162, 255, 76, .8)',
+                borderColor: 'rgba(162, 255, 76, .9)',
+                data: [36, 18, 10, 25, 31, 44, 18],
 
-//                 type: 'bubble'
-//             },
-//             {
-//                 label: 'Dataset 4',
-//                 backgroundColor: 'rgba(168, 12, 252, .0)',
-//                 borderColor: 'rgba(168, 12, 252, .9)',
-//                 data: [45, 12, 34, 10, 36, 40, 43],
+                type: 'bubble'
+            },
+            {
+                label: 'Dataset 4',
+                backgroundColor: 'rgba(168, 12, 252, .0)',
+                borderColor: 'rgba(168, 12, 252, .9)',
+                data: [45, 12, 34, 10, 36, 40, 43],
 
-//                 type: 'line'
-//             }],
-//         labels: ["January", "February", "March", "April", "May", "June", "July"],
+                type: 'line'
+            }],
+        labels: ["0", "10000", "20000", "30000", "40000", "50000", "60000"],
 
-//     },
+    },
 
-//     // Configuration options go here
-//     options: {}
-// });
+    // Configuration options go here
+    options: {}
+});
     </script>
 
 
