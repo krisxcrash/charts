@@ -15,46 +15,6 @@
 
 <script>
 
-var queryURL = "http://localhost:8080/test.json";
-$.ajax( {
-		url: queryURL,
-		method: "GET"
-	} )
-	.done( function( response ) {
-		var results = response.data;
-		for ( let i = 0; i < results.length; i++ ) {
-			var timeStamp = results[ i ].Timestamp;
-			var open = results[ i ].Open;
-			var high = results[ i ].High;
-			var low = results[ i ].Low;
-			var close = results[ i ].Close;
-			var btcVolume = results[ i ].VolumeBTC;
-			var currencyVolume = results[ i ].VolumeCurrency;
-			var weightedPrice = results[ i ].WeightedPrice;
-			// console.log(btcVolume);
-			var ctx = document.getElementById( 'myChart' )
-				.getContext( '2d' );
-			var chart = new Chart( ctx, {
-				// The type of chart
-				type: 'bar',
-				// The data for the dataset
-				data: {
-					datasets: [ {
-						label: "Weighted Price",
-						backgroundColor: 'rgba(255, 99, 132, .5)',
-						borderColor: 'rgba(255, 99, 132, .8)',
-						data: [ weightedPrice ], //this shows the weighted price but only in one column, not as an array
-					} ],
-                    labels: [ btcVolume ], //I would like this to display the different volumes
-                    
-                    //the ajax call is taking a long time to return the data - is there a way to improve speed? will that be corrected with the SQL data?
-				},
-				// Configuration options go here
-				options: {}
-			} );
-		}
-    } )
-    
 
 	//  Charting
 	//     var ctx = document.getElementById('myChart').getContext('2d');
@@ -67,10 +27,10 @@ $.ajax( {
 	//                 label: "Weighted Price",
 	//                 backgroundColor: 'rgba(255, 99, 132, .5)',
 	//                 borderColor: 'rgba(255, 99, 132, .8)',
-	//                 data: [0, 10, 5, 2, 20, 30, 45],
+	//                 data: ["start date & end date"], 
 	//             },
 	//             {
-	//                 label: 'Dataset 2',
+	//                 label: 'Volume',
 	//                 backgroundColor: 'rgba(76, 162, 255, .5)',
 	//                 borderColor: 'rgba(76, 162, 255, .9)',
 	//                 data: [24, 36, 12, 10, 10, 42, 12],

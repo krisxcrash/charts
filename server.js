@@ -1,6 +1,8 @@
 var http = require("http");
 var fs = require("fs");
 
+var obj = require("./test.json");
+
 var PORT = 8080
 
 var server = http.createServer(handleRequest);
@@ -33,6 +35,24 @@ function handleRequest(req, res) {
     }
 }
 
+//json.parse 
+//loop through object 
+
+var objects = obj.data;
+for (var object in objects) {
+    console.log("key" + object + "value " + objects[object].Timestamp);
+}
+
+
+// var jsonObj = JSON.parse(objects);
+// console.log(jsonObj.Timestamp);
+
+
+// var oData = obj.data;
+// var jsonObj = JSON.parse(oData);
+// console.log(jsonObj.Timestamp);
+
+// Let's us know the server is listening
 server.listen(PORT, function() {
     console.log("server is listening on PORT: " + PORT);
-})
+});
